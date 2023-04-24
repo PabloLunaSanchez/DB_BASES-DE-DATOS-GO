@@ -1,5 +1,5 @@
-server= "server"
+server= "localhost"
 port= "1433"
 user= "sa"
-password= "pass123"
-databaseBD= "CATALOGBD"
+password= "12345678"
+databaseBD= "db_restaurante"
